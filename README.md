@@ -31,7 +31,7 @@
 
 ## 📖 Modo de Uso
 
-* **Ejecución del Keylogger**: Al iniciar el script, se generará una llave maestra key.key (si no existe) y comenzará la captura cifrada en log_seguro.txt. `python keyl.py`
-* **Descifrado de Datos**: Para recuperar la información capturada, utiliza el script decodificador: `python decryptor.py`
+* **Ejecución del Keylogger**: Al iniciar el script, se generará una llave maestra key.key (si no existe) y comenzará la captura cifrada en log_seguro.txt. `python keylog.py`
+* **Descifrado de Datos**: Para recuperar la información capturada, utiliza el script decodificador: `python key.py`
 
 ---
